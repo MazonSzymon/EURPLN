@@ -1,0 +1,2 @@
+# EURPLN
+Model ARMA kursu EURPLN
